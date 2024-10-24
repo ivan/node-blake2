@@ -26,7 +26,7 @@
     "nan": "^2.20.0"
   },
   "devDependencies": {
-    "eslint": "^8.57.0",
+    "eslint": "^9.13.0",
     "mocha": "^10.5.1"
   },
   "contributors": [
